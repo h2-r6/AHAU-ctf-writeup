@@ -92,7 +92,7 @@ Casi todas las vulnerabilidades encontradas son **errores de configuración y de
 ## 🛠️ Herramientas
 
 <p>
-  <img src="https://img.shields.io/badge/Garuda_Linux-0d0d18?style=flat-square&logo=archlinux&logoColor=00f0ff">
+  <img src="https://img.shields.io/badge/Arch_Linux-0d0d18?style=flat-square&logo=archlinux&logoColor=00f0ff">
   <img src="https://img.shields.io/badge/nmap-7.991-0d0d18?style=flat-square&labelColor=0d0d18&color=b14aed">
   <img src="https://img.shields.io/badge/curl-0d0d18?style=flat-square&logo=curl&logoColor=05ffa1">
   <img src="https://img.shields.io/badge/git--dumper-1.0.9-0d0d18?style=flat-square&labelColor=0d0d18&color=ff2a6d">

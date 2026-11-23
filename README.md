@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="Kernel CTF (AHAU Team) — Writeup by H2R6" width="100%">
+  <img src="assets/banner-kernel-ctf.jpg" alt="Kernel CTF (AHAU Team) — Writeup by H2R6" width="100%">
 </p>
 
 <p align="center">

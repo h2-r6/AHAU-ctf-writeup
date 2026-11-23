@@ -4,7 +4,8 @@
 |---|---|
 | **Categoría** | Web |
 | **Puntos** | 100 |
-| **Autor** | Lychi3 |
+| **Evento** | Kernel CTF — AHAU Team |
+| **Autor del reto** | Lychi3 |
 | **Objetivo** | `http://3.236.190.110` |
 | **Descripción** | *"Bienvenido a tu plataforma para guardar notas"* |
 | **Vulnerabilidad** | Información sensible en una cookie codificada en Base64 (sin cifrado ni firma) |

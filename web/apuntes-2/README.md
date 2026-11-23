@@ -4,7 +4,8 @@
 |---|---|
 | **Categoría** | Web |
 | **Puntos** | 100 |
-| **Autor** | Lychi3 |
+| **Evento** | Kernel CTF — AHAU Team |
+| **Autor del reto** | Lychi3 |
 | **Objetivo** | `http://3.236.190.110` |
 | **Descripción** | *"Sigue mirando..."* |
 | **Vulnerabilidad** | Manipulación de cookie sin firma → escalada de privilegios a administrador |

@@ -4,7 +4,8 @@
 |---|---|
 | **Categoría** | Web |
 | **Puntos** | 100 |
-| **Autor** | Lychi3 |
+| **Evento** | Kernel CTF — AHAU Team |
+| **Autor del reto** | Lychi3 |
 | **Objetivo** | `http://44.197.131.156:80` |
 | **Descripción** | *"Aqui solo hay una pagina web en la que varios ddesarolladores colaboran"* |
 | **Vulnerabilidad** | Repositorio `.git` expuesto por HTTP + secretos en el historial |

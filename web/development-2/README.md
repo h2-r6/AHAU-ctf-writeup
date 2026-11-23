@@ -4,7 +4,8 @@
 |---|---|
 | **Categoría** | Web |
 | **Puntos** | 300 |
-| **Autor** | Lychi3 |
+| **Evento** | Kernel CTF — AHAU Team |
+| **Autor del reto** | Lychi3 |
 | **Objetivo** | `http://44.197.131.156:80` (mismo host que [Development](../development/README.md)) |
 | **Descripción** | *"Buen ojo encontrando el git, pero aun queda algo"* |
 | **Vulnerabilidad** | Directorio de backups expuesto con `autoindex` + configuración filtrada |

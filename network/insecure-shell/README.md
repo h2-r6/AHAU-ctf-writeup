@@ -4,7 +4,8 @@
 |---|---|
 | **Categoría** | Network |
 | **Puntos** | 100 |
-| **Autor** | Lychi3 |
+| **Evento** | Kernel CTF — AHAU Team |
+| **Autor del reto** | Lychi3 |
 | **Objetivo** | `100.57.93.164` (AWS EC2) |
 | **Descripción** | *"Un servicio de acceso remoto bastante obsoleto...."* |
 | **Vulnerabilidad** | Bypass de autenticación en GNU inetutils telnetd — **CVE-2026-24061** |

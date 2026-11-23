@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" alt="LYCHI3 CTF — Writeup by H2R6" width="100%">
+  <img src="assets/banner.jpg" alt="Kernel CTF (AHAU Team) — Writeup by H2R6" width="100%">
 </p>
 
 <p align="center">
@@ -10,9 +10,22 @@
 </p>
 
 <p align="center">
-  <b>Writeups detallados de los retos del CTF de <code>Lychi3</code></b><br>
+  <b>Writeups detallados del <a href="https://kernel-ctf.ahauteam.org/">Kernel CTF</a> de AHAU Team</b><br>
   <sub>reconocimiento · explotación paso a paso · causa raíz · remediación con código</sub>
 </p>
+
+---
+
+## 🎯 Sobre el evento
+
+| | |
+|---|---|
+| **Evento** | Kernel CTF |
+| **Organiza** | AHAU Team, en colaboración con Purple Hat Coders |
+| **Creador de los retos** | Lychi3 (Carlos Polanco) |
+| **Infraestructura** | Saul Tzakum |
+| **Sitio** | [kernel-ctf.ahauteam.org](https://kernel-ctf.ahauteam.org/) |
+| **Formato de bandera** | `AHAU{...}` |
 
 ---
 
@@ -23,7 +36,7 @@
 </p>
 
 <p align="center">
-  <b>🥇 1er lugar · H2R6 · 1551 puntos</b>
+  <b>🥇 1er lugar en el Kernel CTF · H2R6 · 1551 puntos</b>
 </p>
 
 ---
@@ -126,7 +139,12 @@ Casi todas las vulnerabilidades encontradas son **errores de configuración y de
 - [OWASP Top 10 (2021)](https://owasp.org/Top10/)
 - [MITRE CWE](https://cwe.mitre.org/)
 - [SafeBreach Labs — CVE-2026-24061](https://www.safebreach.com/blog/safebreach-labs-root-cause-analysis-and-poc-exploit-for-cve-2026-24061/)
+- [📥 Writeup completo en PDF](Writeup_Kernel_CTF_AHAU_H2R6.pdf)
 - [git-dumper](https://github.com/arthaud/git-dumper) · [flask-unsign](https://github.com/Paradoxis/Flask-Unsign)
+
+## 🙌 Créditos
+
+Gracias a **AHAU Team** y **Purple Hat Coders** por organizar el evento, a **Lychi3** por crear los retos y a **Saul Tzakum** por la infraestructura.
 
 > ⚠️ **Disclaimer:** material educativo. Las técnicas se aplicaron sobre la infraestructura del CTF, diseñada para ser atacada. No las uses contra sistemas sin autorización.
 

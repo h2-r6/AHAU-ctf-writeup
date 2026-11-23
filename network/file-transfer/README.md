@@ -4,7 +4,8 @@
 |---|---|
 | **Categoría** | Network |
 | **Puntos** | 50 |
-| **Autor** | Lychi3 |
+| **Evento** | Kernel CTF — AHAU Team |
+| **Autor del reto** | Lychi3 |
 | **Objetivo** | `3.219.242.156` (AWS EC2) |
 | **Descripción** | *"Solo un servicio de transferencia de archivos"* |
 | **Vulnerabilidad** | Acceso FTP anónimo habilitado |

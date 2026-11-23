@@ -4,7 +4,8 @@
 |---|---|
 | **Categoría** | Web |
 | **Puntos** | 100 |
-| **Autor** | Lychi3 |
+| **Evento** | Kernel CTF — AHAU Team |
+| **Autor del reto** | Lychi3 |
 | **Objetivo** | `http://44.197.147.215:80` |
 | **Descripción** | *"Un panel basico protegio por un login"* |
 | **Vulnerabilidad** | SQL Injection en el login (bypass de autenticación) |

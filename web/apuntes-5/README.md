@@ -4,7 +4,8 @@
 |---|---|
 | **Categoría** | Web |
 | **Puntos** | 300 |
-| **Autor** | Lychi3 |
+| **Evento** | Kernel CTF — AHAU Team |
+| **Autor del reto** | Lychi3 |
 | **Objetivo** | `http://3.236.190.110` |
 | **Descripción** | *"No deberia de leer eso, este sistema es seguro"* |
 | **Vulnerabilidad** | LFI (Local File Inclusion) / Path Traversal en el visor de reportes |

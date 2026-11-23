@@ -4,7 +4,8 @@
 |---|---|
 | **Categoría** | Web |
 | **Puntos** | 300 |
-| **Autor** | Lychi3 |
+| **Evento** | Kernel CTF — AHAU Team |
+| **Autor del reto** | Lychi3 |
 | **Objetivo** | `http://3.236.190.110` |
 | **Descripción** | *"Esto deberia ser seguro"* |
 | **Vulnerabilidad** | OS Command Injection en la herramienta de ping (filtro por lista blanca evadible) |

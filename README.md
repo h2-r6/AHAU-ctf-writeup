@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>Writeups detallados del <a href="https://kernel-ctf.ahauteam.org/">Kernel CTF</a> de AHAU Team</b><br>
+  <b>Writeups detallados del <a href="https://kernel-ctf.ahauteam.org/">Kernel CTF</a> by <a href="https://www.ahauteam.org/">AHAU Team</a></b><br>
   <sub>reconocimiento · explotación paso a paso · causa raíz · remediación con código</sub>
 </p>
 
@@ -21,7 +21,7 @@
 | | |
 |---|---|
 | **Evento** | Kernel CTF |
-| **Organiza** | AHAU Team, en colaboración con Purple Hat Coders |
+| **Organiza** | [AHAU Team](https://www.ahauteam.org/), en colaboración con Purple Hat Coders |
 | **Creador de los retos** | Lychi3 (Carlos Polanco) |
 | **Infraestructura** | Saul Tzakum |
 | **Sitio** | [kernel-ctf.ahauteam.org](https://kernel-ctf.ahauteam.org/) |
